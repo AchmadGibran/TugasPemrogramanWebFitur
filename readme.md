@@ -154,6 +154,6 @@ Berikut adalah implementasi rincian 13 fitur utama yang terintegrasi secara penu
   <br><br>
   <strong>Sesudah Perbaikan (Tampilan Presisi):</strong>
   <br>
-  <img src="img/sesudahPerbaikan.png" alt="Kondisi Fix: Tabel Normal" width="100%" style="border-radius: 8px; border: 1px solid #ddd; max-width: 800px;">
+  <img src="img/sesudahperbaikan.png" alt="Kondisi Fix: Tabel Normal" width="100%" style="border-radius: 8px; border: 1px solid #ddd; max-width: 800px;">
   <img src="img/sesudahPerbaikan1.png" alt="Kondisi Bug: Tabel Tergeser" width="100%" style="border-radius: 8px; border: 1px solid #ddd; max-width: 800px;">
   <br>
